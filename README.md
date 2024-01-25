@@ -1,7 +1,7 @@
 
 # Hospital Management System
 
-This a a website, where we can control all the management related to a hospital online, like admitting patient, booking bed, booking ambulance, managing payment and more.
+This website, where we can control all the management related to a hospital online, like admitting patient, booking bed, booking ambulance, managing payment and more.
 
 ![1](https://user-images.githubusercontent.com/100460788/215811132-40070d36-862a-4154-adc0-903c6fa65394.jpg)
 
